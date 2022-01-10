@@ -1,7 +1,7 @@
 #
 # Copyright (C) 2020 The LineageOS Project
 #
-# Copyright (C) 2021 DerpFest
+# Copyright (C) 2021 AOSP
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -307,7 +307,7 @@ PRODUCT_PACKAGES += \
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-derp
+    $(LOCAL_PATH)/overlay-aosp
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
