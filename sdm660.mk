@@ -403,6 +403,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fstab.qcom \
     init.msm.usb.configfs.rc \
+    init.performance_level.rc \
     init.qcom.asus.rc \
     init.qcom.rc \
     init.qcom.usb.rc \
